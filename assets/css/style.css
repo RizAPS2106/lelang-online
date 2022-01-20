@@ -1,0 +1,36 @@
+.text-brand{
+	font-size: 20px;
+}
+
+.login-shape{
+	border-radius: 10px;
+}
+
+.login-img-shape{
+	border-radius: 10px 0px 0px 10px;
+}
+
+.login-shadow{
+	-webkit-box-shadow: 5px 5px 15px 5px rgba(68,68,68,0.5); 
+	box-shadow: 5px 5px 15px 5px rgba(68,68,68,0.5);
+}
+
+.form-content-shape{
+	border-radius: 30px;
+}
+
+.form-left-content-shape{
+	border-radius: 30px 0px 0px 30px;
+}
+
+.form-right-content-shape{
+	border-radius: 0px 30px 30px 0px;
+}
+
+.margin-top-larger{
+	margin-top: 9%;
+}
+
+.margin-bottom-larger{
+	margin-bottom: 9%;	
+}
