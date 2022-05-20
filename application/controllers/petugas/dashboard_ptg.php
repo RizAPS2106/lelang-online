@@ -105,5 +105,3 @@ class Dashboard_ptg extends CI_Controller
 	}
 	
 }
-
-?>
