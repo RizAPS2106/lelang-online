@@ -7,7 +7,8 @@ Aplikasi Lelang Online, berbasis website, dibuat menggunakan PHP dengan framewor
 Fitur Utama
 *******************
 - Registrasi dan Autentikasi User.
-- Tampilan Barang sesuai kategori.
+- Tampilan Barang.
+- Pengkategorian Barang.
 - Membuat Pelelangan barang dengan deskripsi, gambar dan harga awal yang ditentukan.
 - Membuat Penawaran untuk barang yang sedang dilelang.
 
