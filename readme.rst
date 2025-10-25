@@ -4,6 +4,12 @@ Aplikasi Lelang Online
 Aplikasi Lelang Online, berbasis website, dibuat menggunakan PHP dengan framework CodeIgniter 3. Untuk kebutuhan transaksi Lelang Online di website.
 
 *******************
+Tech Stack
+*******************
+- PHP 7.3 with CodeIgniter 3 Framework
+- MySQL
+
+*******************
 Fitur Utama
 *******************
 - Registrasi dan Autentikasi User.
